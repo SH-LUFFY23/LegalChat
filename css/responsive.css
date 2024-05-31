@@ -48,3 +48,17 @@
         align-items: center;
     }
 }
+
+.about_section .heading_container {
+    margin-bottom: 0;
+  }
+
+.about_section .row {
+    flex-direction: column-reverse;
+  }
+
+.about_section .detail-box {
+    margin-left: 0;
+    width: 100%;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+}
