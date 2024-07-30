@@ -82,7 +82,6 @@ body {
   }
 }
 
-/*header section*/
 .hero_area {
   height: 100vh;
   display: flex;
@@ -220,8 +219,6 @@ a:focus {
   background-size: 55px;
 }
 
-/*end header section*/
-
 .slider_section {
   flex: 1;
   display: flex;
@@ -299,12 +296,6 @@ a:focus {
   }
 }
 
-// end slider section
-
-
-
-
-
 .emp_section {
   background-image: url(../images/emp-bg.png);
   background-size: cover;
@@ -332,8 +323,6 @@ a:focus {
     }
   }
 }
-
-// client section
 
 .client_section {
   text-align: center;
@@ -381,9 +370,6 @@ a:focus {
   }
 }
 
-// end client section
-
-// info section
 .info_section {
   background-color: #252233;
 }
@@ -439,8 +425,3 @@ a:focus {
     }
   }
 }
-
-// end info section
-
-
-
