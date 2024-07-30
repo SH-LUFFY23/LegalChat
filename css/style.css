@@ -59,7 +59,6 @@ body {
           transform: translateX(-50%);
 }
 
-/*header section*/
 .hero_area {
   height: 100vh;
   display: -webkit-box;
@@ -200,7 +199,6 @@ a:focus {
   background-size: 55px;
 }
 
-/*end header section*/
 .slider_section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -387,8 +385,6 @@ a:focus {
 .client_section #carouselExampleControls {
   padding: 0 10%;
 }
-
-
 
 .client_section .box {
   display: -webkit-box;
@@ -628,6 +624,3 @@ a:focus {
 .footer_section a {
   color: #292929;
 }
-
-/* end footer section*/
-/*# sourceMappingURL=style.css.map */
